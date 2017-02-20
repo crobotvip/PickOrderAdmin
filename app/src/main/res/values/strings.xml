@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PickOrderAdmin</string>
+    <string name="tab_image">tab图标</string>
+    <string name="login_username">请输入用户名</string>
+    <string name="login_password">请输入用户密码</string>
+    <string name="login_email">请输入邮箱地址</string>
+    <string name="login_phone">请输入手机号</string>
+    <string name="login_register">注册</string>
+</resources>
